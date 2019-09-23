@@ -17,7 +17,7 @@ Blur tool: Supposed to blur out the image but have not completed that yet
 
 You can also add in a new image with the edit a new picture button
 
-(If you are in comp401 now PLEASE DO NOT COPY MY CODE)
+
 
 
 ![PicEditor3](https://user-images.githubusercontent.com/52538852/65457945-a4fbeb80-de1a-11e9-89ef-a5c04e0a4394.gif)
