@@ -22,7 +22,7 @@ public class ImageEditor {
 	protected UndoManager undoManager = new UndoManager();
 	// private UndoAction undoAction = null;
 
-	private static String imagetext = "https://lighthearted.com/wp-content/uploads/2019/08/time_300-300x250.jpg";
+	private static String imagetext = "https://images.all-free-download.com/images/graphicthumb/orange_crush_514795.jpg";
 
 	public static void specifyURL(String imagetext) {
 		ImageEditor.imagetext = imagetext;
