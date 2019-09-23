@@ -7,8 +7,13 @@ There are three tools: the pixel inspector, paint brush, and blur tool.
 
 
 Pixel inspector: looks at x and y cooridnates of pixel and tells the rgb values of the pixel
+
+
 Paint brush: Lets you change the rgb value of pixels with a paint brush size
+
+
 Blur tool: Supposed to blur out the image but have not completed that yet
+
 
 You can also add in a new image with the edit a new picture button
 
