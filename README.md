@@ -1,8 +1,15 @@
 # PixEditor
 
 This is the final project from my comp 401 class (Foundations of programming.) Here we take in any picture in a certain
-resolution size and then manipulate the picture. Manipulate it through changing the size of the paint brush to change the
-pixels of the picture. I was not able to finish the blur tool in which you can blur out the picture.
+resolution size and then manipulate the picture. 
+
+There are three tools: the pixel inspector, paint brush, and blur tool.
+Pixel inspector: looks at x and y cooridnates of pixel and tells the rgb values of the pixel
+Paint brush: Lets you change the rgb value of pixels with a paint brush size
+Blur tool: Supposed to blur out the image but have not completed that yet
+
+You can also add in a new image with the edit a new picture button
+
 (If you are in comp401 now PLEASE DO NOT COPY MY CODE)
 
 
